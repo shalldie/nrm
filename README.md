@@ -1,6 +1,9 @@
 nrm -- NPM registry manager
 ===
 
+> 此为 fork 版本，源仓库为 https://github.com/Pana/nrm
+> 源仓库版本有点问题，fork 重发布之
+
 [![NPM version][npm-image]][npm-url]
 
 `nrm` can help you easy and fast switch between different npm registries,
